@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x5826B29e8A2675928CC32eBb3DBd656E9B5c53C5",
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Cryptos Alien",
+  "SYMBOL": "ALIENS",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "TWITTER_LINK": "https://twitter.com/eEEXxxxXEEe",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptos-alien",
+  "SHOW_BACKGROUND": true
+
+}
