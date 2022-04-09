@@ -10,7 +10,7 @@
   "SYMBOL": "ALIENS",
   "MAX_SUPPLY": 5555,
   "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "DISPLAY_COST": ,
   "GAS_LIMIT": 285000,
   "TWITTER_LINK": "https://twitter.com/eEEXxxxXEEe",
   "MARKETPLACE": "Opensea",
